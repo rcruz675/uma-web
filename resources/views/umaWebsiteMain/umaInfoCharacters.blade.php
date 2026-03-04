@@ -10,7 +10,7 @@
             <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
                 <!-- this changes the background color of the container -->
                 <div class="p-6 lg:p-8 bg-gray-800 text-white border-b border-gray-700">
-    
+                    <!-- repo test -->
 
     <h1 class="mt-8 text-2xl font-medium" style="text-align:left">
         Playable Character List
